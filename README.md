@@ -18,7 +18,7 @@ With this screenshot, we can see new patient cases of United states are going do
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
  * Which countries were more affected worldwide?
- * In which countries patient count is decreasing and for which countries it is increasing
+ * In which countries patient count is decreasing and for which countries it is increasing?
  * Which countries have more variation in total cases
  * Which days had highest count of patient deaths
  * Display daywise spread continentwise
@@ -28,7 +28,13 @@ The following tasks and questions will drive the visualization and interaction d
 
 <img width="1394" alt="Sketch_Covid_Data_may" src="https://user-images.githubusercontent.com/60999947/94639033-47aa3e00-02a9-11eb-99c8-d2e09221c4be.png">
 
-(describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
+* Graph1 is line chart showing Total cases in a month of May. This answers two questions, 
+   Which countries were more affected worldwide?
+   In which countries patient count is decreasing and for which countries it is increasing?
+* Graph 2 is box plot of Total cases showing variation and median of in total cases in a month for all countries.
+* Graph 3 is bar chart for comapring spread of virus on 1st day and on 31 st day
+* Graph 4 is bubble chart which shows contriwise data
+
 
 ## Open Questions
 
