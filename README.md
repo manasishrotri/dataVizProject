@@ -11,7 +11,14 @@ This data is available on my gist [World corona virus cases May2020](https://gis
 I’ve created a proof of concept visualization of this data. 
 I have created a line chart of covis cases along Y axis and Date as X axis
 With this screenshot, we can see new patient cases of United states are going down while for Brazil they are increasing
+
+###Prototype graph 1
+
 [![Covid_line_Chart](https://user-images.githubusercontent.com/60999947/94638694-8d1a3b80-02a8-11eb-9ab2-f65007c8fc2c.JPG)](https://vizhub.com/manasishrotri/2a52e358713f40af9002486d5e9ac6d3?edit=files&file=index.html&mode=full)
+
+###Prototype graph 2
+
+[![image](https://user-images.githubusercontent.com/60999947/94639494-4a596300-02aa-11eb-894d-b36e772b6718.png)](https://vizhub.com/manasishrotri/80b2816144f74b90a29d6a17801d48c7)
 
 ## Questions & Tasks
 
@@ -38,5 +45,5 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Open Questions
 
-(I am not sure how to show the ranking of countries on 1st day vs on the 31st May or how ranking and cases changed from start of the month till end of the month, 
-Also I would like to implement box plot with D3 React)
+*for the prototype graph 2 which relates to the question, show the ranking of countries on 1st day vs on the 31st May or how ranking and cases changed from start of the month till end of the month, I am not sure if I am able to convey that thr' my visualization. 
+*Also I would like to implement box plot with D3 React
