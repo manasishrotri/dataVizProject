@@ -11,7 +11,7 @@ This data is available on my gist [World corona virus cases May2020](https://gis
 I’ve created a proof of concept visualization of this data. 
 I have created a line chart of covis cases along Y axis and Date as X axis
 With this screenshot, we can see new patient cases of United states are going down while for Brazil they are increasing
-![Covid_line_Chart](https://user-images.githubusercontent.com/60999947/94638694-8d1a3b80-02a8-11eb-9ab2-f65007c8fc2c.JPG)
+[![Covid_line_Chart](https://user-images.githubusercontent.com/60999947/94638694-8d1a3b80-02a8-11eb-9ab2-f65007c8fc2c.JPG)](https://vizhub.com/manasishrotri/2a52e358713f40af9002486d5e9ac6d3?edit=files&file=index.html&mode=full)
 
 ## Questions & Tasks
 
