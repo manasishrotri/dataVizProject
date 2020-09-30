@@ -1,26 +1,29 @@
 # Data Visualization Project
 
 ## Data
+The data I propose to visualize for my project is COVID Patient Cases data in May2020. 
+The original data was taken from Kaggle: Corona virus cases. It has covid patient count, death counts reported all over the world. For the visualization purpose this data is filtered only for month of May.
+This data is available on my gist [World corona virus cases May2020](https://gist.github.com/manasishrotri/4e43a48d4a8c89f011dbf18b7de28190)
 
-The data I propose to visualize for my project is ...
 
 ## Prototypes
 
-I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
+I’ve created a proof of concept visualization of this data. 
+I have created a line chart of covis cases along Y axis and Date as X axis
+With this screenshot, we can see new patient cases of United states are going down while for Brazil they are increasing
 
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://beta.vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
-
-(please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments)
 
 ## Questions & Tasks
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * (insert your question or task here) How does the X vary over time?
- * (insert your question or task here) Is there any correlation between X and Y?
- * (insert your question or task here) Are there interesting spatial patterns in X?
- * (insert your question or task here) How many X are there across different Y?
-
+ * Which countries were more affected worldwide?
+ * In which countries patient count is decreasing and for which countries it is increasing
+ * Which countries have more variation in total cases
+ * Which days had highest count of patient deaths
+ * Display daywise spread continentwise
+ 
+ 
 ## Sketches
 
 (insert one or more hand-drawn sketches of interactive visualizations that you imagine)
@@ -28,4 +31,5 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Open Questions
 
-(describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
+(I am not sure how to show the ranking of countries on 1st day vs on the 31st May or how ranking and cases changed from start of the month till end of the month, 
+Also I would like to implement box plot with D3 React)
