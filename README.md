@@ -26,7 +26,8 @@ The following tasks and questions will drive the visualization and interaction d
  
 ## Sketches
 
-(insert one or more hand-drawn sketches of interactive visualizations that you imagine)
+<img width="1394" alt="Sketch_Covid_Data_may" src="https://user-images.githubusercontent.com/60999947/94639033-47aa3e00-02a9-11eb-99c8-d2e09221c4be.png">
+
 (describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
 
 ## Open Questions
