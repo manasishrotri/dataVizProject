@@ -40,10 +40,39 @@ The following tasks and questions will drive the visualization and interaction d
    In which countries patient count is decreasing and for which countries it is increasing?
 * Graph 2 is box plot of Total cases showing variation and median of in total cases in a month for all countries.
 * Graph 3 is bar chart for comapring spread of virus on 1st day and on 31 st day
-* Graph 4 is bubble chart which shows contriwise data
+* Graph 4 is bubble chart which shows country wise data
 
 
 ## Open Questions
 
-* For the prototype graph 2 which relates to the question, show the ranking of countries on 1st day vs on the 31st May or how ranking and cases changed from start of the month till end of the month, I am not sure if I am able to convey that thr' my visualization. 
+* For the prototype graph 2 which relates to the question, show the ranking of countries on 1st day vs on the 31st May or how ranking and cases changed from start of the month till end of the month, I am not sure if I am able to convey that through my visualization. 
 * Also I would like to implement box plot with D3 React
+
+## Interactions
+
+* Using drop down for selecting countries, for a line chart
+* For world map, use tooltip to show count and country name
+
+## Schedule of Deliverables
+
+Week 1:
+* Read data using D3 and react 
+* Plot line graph
+
+Week 2: 
+* Prepare data for Box plot
+* Understand how to create world map with size of data as bubbles
+
+Week 3: 
+* Complete box plot
+* Add iteraction for line chart as drop down option for countries
+
+Week 4:
+* Work on World map
+* Create bar chart with React &  D3
+
+Week 5:
+* Complete world chart 
+* Complete project report
+
+
