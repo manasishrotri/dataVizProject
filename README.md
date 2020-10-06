@@ -50,7 +50,7 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Interactions
 
-* Using drop down for selecting countries, for a line chart
+* Using drop down for selecting countries, for a line chart. This drop down option will filter the data of that country and will display line chart for it.
 * For world map, use tooltip to show count and country name
 
 ## Schedule of Deliverables
