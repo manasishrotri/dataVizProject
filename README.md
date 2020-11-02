@@ -1,7 +1,7 @@
 # Data Visualization Project
 
 ## Data
-The data I propose to visualize for my project is COVID Patient Cases data in May2020. 
+The data I propose to visualize for my project is COVID Cases data in May2020. 
 The original data was taken from Kaggle: Corona virus cases. It has covid patient count, death counts reported all over the world. For the visualization purpose this data is filtered only for month of May.
 This data is available on my gist [World corona virus cases May2020](https://gist.github.com/manasishrotri/4e43a48d4a8c89f011dbf18b7de28190)
 
