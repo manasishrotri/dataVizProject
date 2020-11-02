@@ -1,15 +1,27 @@
 # Data Visualization Project
 
 ## Data
-The data I propose to visualize for my project is COVID Cases data in May2020. 
-The original data was taken from Kaggle: Corona virus cases. It has covid patient count, death counts reported all over the world. For the visualization purpose this data is filtered only for month of May.
+The data I have used for visualization in my project is COVID Cases data in May2020. 
+The original data is taken from Kaggle: Corona virus cases. It has covid patient count, death counts reported all over the world. For the visualization purpose this data is filtered only for month of May.
 This data is available on my gist [World corona virus cases May2020](https://gist.github.com/manasishrotri/4e43a48d4a8c89f011dbf18b7de28190)
 
+## Step 1: Create prototypes and sketches of data to visualize
 
-## Prototypes
+## 1.1 Questions & Tasks
+
+The following tasks and questions will drive the visualization and interaction decisions for this project:
+
+ * Which countries were more affected worldwide?
+ * In which countries patient count is decreasing and for which countries it is increasing?
+ * Which continents have more variation in total cases
+ * Which days had highest count of patient deaths
+ * Display daywise spread countrywise
+
+
+## 1.2 Prototypes
 
 I’ve created a proof of concept visualization of this data. 
-I have created a line chart of covis cases along Y axis and Date as X axis
+I have created a line chart of covid cases along Y axis and Date as X axis
 With this screenshot, we can see new patient cases of United states are going down while for Brazil they are increasing
 
 ### Prototype graph 1
@@ -20,18 +32,9 @@ With this screenshot, we can see new patient cases of United states are going do
 
 [![image](https://user-images.githubusercontent.com/60999947/94639494-4a596300-02aa-11eb-894d-b36e772b6718.png)](https://vizhub.com/manasishrotri/80b2816144f74b90a29d6a17801d48c7)
 
-## Questions & Tasks
-
-The following tasks and questions will drive the visualization and interaction decisions for this project:
-
- * Which countries were more affected worldwide?
- * In which countries patient count is decreasing and for which countries it is increasing?
- * Which countries have more variation in total cases
- * Which days had highest count of patient deaths
- * Display daywise spread continentwise
  
  
-## Sketches
+## 1.3 Sketches
 
 <img width="1394" alt="Sketch_Covid_Data_may" src="https://user-images.githubusercontent.com/60999947/94639033-47aa3e00-02a9-11eb-99c8-d2e09221c4be.png">
 
@@ -43,36 +46,38 @@ The following tasks and questions will drive the visualization and interaction d
 * Graph 4 is bubble chart which shows country wise data
 
 
-## Open Questions
+## 1.4 Schedule of Deliverables
 
-* For the prototype graph 2 which relates to the question, show the ranking of countries on 1st day vs on the 31st May or how ranking and cases changed from start of the month till end of the month, I am not sure if I am able to convey that through my visualization. 
-* Also I would like to implement box plot with D3 React
-
-## Interactions
-
-* Using drop down for selecting countries, for a line chart. This drop down option will filter the data of that country and will display line chart for it.
-* For world map, use tooltip to show count and country name
-
-## Schedule of Deliverables
-
-Week 1:
+[done] Week 1:
 * Read data using D3 and react 
 * Plot line graph
 
-Week 2: 
+[done] Week 2: 
 * Prepare data for Box plot
 * Understand how to create world map with size of data as bubbles
 
-Week 3: 
+[done] Week 3: 
 * Complete box plot
 * Add iteraction for line chart as drop down option for countries
 
-Week 4:
+[done] Week 4:
 * Work on World map
 * Create bar chart with React &  D3
 
-Week 5:
+[done] Week 5:
 * Complete world chart 
 * Complete project report
 
 
+## Step 2: Interactions in visualization
+
+* For line chart, when mouse hover over a country name, the line for that country is highlighted
+* Box plot, when hovered over box, shows values quantile 1, median and quantile 3
+* World map shows country name and count of cases on 31st May on hovering over that country 
+
+## Step 3: Final Visualization
+
+
+## Future Work
+* Create animated world chart(or slider over day), which changes values daywise cases
+* Create React app
