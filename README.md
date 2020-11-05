@@ -81,13 +81,13 @@ With this screenshot, we can see new patient cases of United states are going do
 
 ![image](https://user-images.githubusercontent.com/60999947/98186915-d1b77900-1edd-11eb-8d84-2c3bab481833.png)
 
-With this line chart we can see which countries have positive trend of new cases
+With this line chart we can see which countries have positive trend of new cases. If we hover over country name, it faded all the lines in background and highlights the selected country
 
 ### 3.2 Bar chart showing number of deaths countriwise
 
 ![image](https://user-images.githubusercontent.com/60999947/98187709-8d2cdd00-1edf-11eb-931b-061718a5478c.png)
 
-Bar chart shows number of deaths as a bar as opposed to a country. Also, slider has been provided with which you can change the date and it shows bar chart od death for that day. Also, if you hover over the bar it indicated number of deaths count and country of that bar
+Bar chart shows number of deaths as a bar as opposed to a country. The data in the bar chart is arranged in descending order of number of deaths, so we can also see ranking of countries. Also, slider has been provided with which you can change the date and it shows bar chart of deaths for that day. Also, if you hover over the bar it indicated number of deaths count and country of that bar. 
 
 
 ### 3.3 Box plot for new cases of Covid
