@@ -77,12 +77,27 @@ With this screenshot, we can see new patient cases of United states are going do
 
 ## Step 3: Final Visualization
 
-3.1 Line chart of new cases 
-
+### 3.1 Line chart of new cases 
 
 ![image](https://user-images.githubusercontent.com/60999947/98186915-d1b77900-1edd-11eb-8d84-2c3bab481833.png)
 
 With this line chart we can see which countries have positive trend of new cases
+
+### 3.2 Bar chart showing number of deaths countriwise
+
+
+Bar chart shows number of deaths as a bar as opposed to a country. Also, slider has been provided with which you can change the date and it shows bar chart od death for that day. Also, if you hover over the bar it indicated number of deaths count and country of that bar
+
+
+### 3.3 Box plot for new cases of Covid
+
+Box plot indicates variablility or spread of the data. If the new cases are increasing or decreasing rapidly then this can be seen in box plot.
+By hovering over a box plot it tell you quantile 1, median and quantile 3 values of a data. 
+
+
+### 3.4 World map with size of total cases
+
+
 
 ## Future Work
 * Create animated world chart(or slider over day), which changes values daywise cases
