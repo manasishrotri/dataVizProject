@@ -77,6 +77,12 @@ With this screenshot, we can see new patient cases of United states are going do
 
 ## Step 3: Final Visualization
 
+3.1 Line chart of new cases 
+
+
+![image](https://user-images.githubusercontent.com/60999947/98186915-d1b77900-1edd-11eb-8d84-2c3bab481833.png)
+
+With this line chart we can see which countries have positive trend of new cases
 
 ## Future Work
 * Create animated world chart(or slider over day), which changes values daywise cases
