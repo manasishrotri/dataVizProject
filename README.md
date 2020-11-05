@@ -13,7 +13,7 @@ The following tasks and questions will drive the visualization and interaction d
 
  * Which countries were more affected worldwide?
  * In which countries patient count is decreasing and for which countries it is increasing?
- * Which continents have more variation in total cases
+ * Which countries have more variation in total cases
  * Which days had highest count of patient deaths
  * Display daywise spread countrywise
 
