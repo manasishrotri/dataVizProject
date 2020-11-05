@@ -92,12 +92,17 @@ Bar chart shows number of deaths as a bar as opposed to a country. Also, slider 
 
 ### 3.3 Box plot for new cases of Covid
 
+![image](https://user-images.githubusercontent.com/60999947/98187792-b9485e00-1edf-11eb-884b-3316770cf622.png)
+
 Box plot indicates variablility or spread of the data. If the new cases are increasing or decreasing rapidly then this can be seen in box plot.
 By hovering over a box plot it tell you quantile 1, median and quantile 3 values of a data. 
 
 
 ### 3.4 World map with size of total cases
 
+![image](https://user-images.githubusercontent.com/60999947/98187831-d0874b80-1edf-11eb-802d-765dac30dd09.png)
+
+Total cases of Covid are indicated using circles on the world map. Larger the size of circle larger is the spread of Covid-19 in corresponding country. By hovering over the country it shows country name and total case count. With this visualization we can easily identify largest spread is in United States
 
 
 ## Future Work
