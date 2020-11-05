@@ -85,6 +85,7 @@ With this line chart we can see which countries have positive trend of new cases
 
 ### 3.2 Bar chart showing number of deaths countriwise
 
+![image](https://user-images.githubusercontent.com/60999947/98187709-8d2cdd00-1edf-11eb-931b-061718a5478c.png)
 
 Bar chart shows number of deaths as a bar as opposed to a country. Also, slider has been provided with which you can change the date and it shows bar chart od death for that day. Also, if you hover over the bar it indicated number of deaths count and country of that bar
 
